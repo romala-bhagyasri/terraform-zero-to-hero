@@ -54,7 +54,7 @@ Master the art of debugging Terraform configurations.Plus, learn why proper form
 
 Unlock the potential of reusability with Terraform modules. Understand how modules enable you to create shareable and organized infrastructure components.
 
-#### Local Values and Data Sources
+#### Local Values and Data Sources hihihihihihihihihihi
 
 Simplify complex expressions using local values. Dive into data sources and learn how to fetch data from existing resources or external systems, enhancing your configurations' flexibility.
 
